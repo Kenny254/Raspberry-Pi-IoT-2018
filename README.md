@@ -1,5 +1,5 @@
 # Raspberry-Pi-IoT-2018
-This is a project to that purely uses php and wirepy to remotely control the Raspberry pis GPIO. This will work on most of the raspberry pi. 
+This is a project that purely uses php and wirepy to remotely control the Raspberry pis GPIO. This will work on most of the raspberry pi. 
 Before you can start working with PHP on Raspberry Pi, you need to install PHP itself on the machine. In most situations, PHP is used in tandem with a web server like Apache. Installing both PHP and Apache on Raspberry Pi is a matter of running.
 
 1.Install php in a raspberry pi.Php is shipped alongside appache or lighttpd. To install either, 
